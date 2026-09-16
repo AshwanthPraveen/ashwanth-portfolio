@@ -1,3 +1,16 @@
+// ============================================================================
+// File: app_spacing.dart
+// Created Date: 16-Sep-2026
+// Title: AppSpacing
+// Description:
+//   Defines all spacing values used throughout the application.
+//
+// Class:
+//   AppSpacing
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 class AppSpacing {
   AppSpacing._();
 

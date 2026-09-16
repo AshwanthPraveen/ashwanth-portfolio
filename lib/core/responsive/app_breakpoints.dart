@@ -1,3 +1,16 @@
+// ============================================================================
+// File: app_breakpoints.dart
+// Created Date: 16-Sep-2026
+// Title: AppBreakpoints
+// Description:
+//   Defines all breakpoint values used for responsive design.
+//
+// Class:
+//   AppBreakpoints
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 class AppBreakpoints {
   AppBreakpoints._();
 

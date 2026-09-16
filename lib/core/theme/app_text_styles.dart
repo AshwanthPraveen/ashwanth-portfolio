@@ -1,3 +1,16 @@
+// ============================================================================
+// File: app_text_styles.dart
+// Created Date: 16-Sep-2026
+// Title: AppTextStyles
+// Description:
+//   Defines all text styles used throughout the application.
+//
+// Class:
+//   AppTextStyles
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

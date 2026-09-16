@@ -1,3 +1,16 @@
+// ============================================================================
+// File: app_theme.dart
+// Created Date: 16-Sep-2026
+// Title: AppTheme
+// Description:
+//   Defines all text styles used throughout the application.
+//
+// Class:
+//   AppTheme
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 import 'package:flutter/material.dart';
 import 'app_colors.dart';
 

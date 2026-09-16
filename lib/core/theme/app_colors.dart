@@ -1,3 +1,16 @@
+// ============================================================================
+// File: app_colors.dart
+// Created Date: 16-Sep-2026
+// Title: AppColors
+// Description:
+//   Defines all color values used throughout the application.
+//
+// Class:
+//   AppColors
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 import 'package:flutter/material.dart';
 
 class AppColors {

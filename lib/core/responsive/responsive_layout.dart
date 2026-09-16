@@ -1,3 +1,16 @@
+// ============================================================================
+// File: responsive_layout.dart
+// Created Date: 16-Sep-2026
+// Title: ResponsiveLayout
+// Description:
+//   Provides responsive layout widget that displays different content based on screen size.
+//
+// Class:
+//   ResponsiveLayout
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 import 'package:flutter/material.dart';
 
 import 'responsive.dart';

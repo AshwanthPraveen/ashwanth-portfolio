@@ -1,3 +1,16 @@
+// ============================================================================
+// File: responsive.dart
+// Created Date: 16-Sep-2026
+// Title: Responsive
+// Description:
+//   Provides responsive device detection and utility functions.
+//
+// Class:
+//   Responsive
+//
+// Author: Ashwanth V Praveen
+// ============================================================================
+
 import 'package:flutter/material.dart';
 
 import 'app_breakpoints.dart';
