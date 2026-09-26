@@ -3,7 +3,7 @@
 // Created Date: 16-Sep-2026
 // Title: AppRouter
 // Description:
-//   Defines all routes used throughout the application.
+//   Defines application routes and navigation configuration.
 //
 // Class:
 //   AppRouter
@@ -11,23 +11,14 @@
 // Author: Ashwanth V Praveen
 // ============================================================================
 
-import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import '../../features/home/presentation/pages/home_page.dart';
 
 class AppRouter {
   AppRouter._();
 
   static final GoRouter router = GoRouter(
     initialLocation: '/',
-    routes: [
-      GoRoute(
-        path: '/',
-        builder: (context, state) {
-          return const Scaffold(
-            body: Center(child: Text('Ashwanth Portfolio')),
-          );
-        },
-      ),
-    ],
+    routes: [GoRoute(path: '/', builder: (context, state) => const HomePage())],
   );
 }

@@ -22,6 +22,8 @@ dependencies:
 
   # Dependency Injection
   get_it: ^8.2.0
+
+  # Fonts
   google_fonts: ^8.2.1
 
 dev_dependencies:
@@ -33,13 +35,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # Assets will be added later.
-  # assets:
-  #   - assets/images/
-  #   - assets/icons/
-
-  # Custom fonts will be added after we finalize typography.
-  # fonts:
-  #   - family: YourFont
-  #     fonts:
-  #       - asset: assets/fonts/YourFont-Regular.ttf
+  assets:
+    - assets/
